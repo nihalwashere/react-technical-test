@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fff1e8;
+}
+
+.accent {
+  background-image: url("/graphics/Accent.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
